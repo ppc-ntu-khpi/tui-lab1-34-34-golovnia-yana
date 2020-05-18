@@ -2,11 +2,11 @@
 # UI Lab 1
 ![](terminal-icon.png)
 ![](gui-icon.png)
-(https://github.com/ppc-ntu-khpi/tui-lab1-34-34-golovnia-yana/blob/master/image.png)
+
 
   
 **В ході лабораторної роботи було виконано наступні дії:**
-
+**На "п'ять"**
 1. Завантажено jar-файл Jexer з цього ж репозиторію.
 2. Створено в Netbeans новий проект з назвою TUIdemo. 
 3. Додано до проекту бібліотеку Jexer.
@@ -15,6 +15,8 @@
 6. Запустила проект, побачила вікно з меню та рядком статусу. Дослідила пункти меню, впевнилась, що всі вони працюють та надають корисну функціональність. 
 7. Переписала метод ShowCustomerDetails з використанням класів Bank, Customer, Account та ін. з наших попередніх лаб.
 8. Запустила проект, впевнилась, що все працює як очікувалось. 
+
+<img src="https://github.com/ppc-ntu-khpi/tui-lab1-34-34-golovnia-yana/blob/master/image.png" width="90%"/>
 ---
 
 
