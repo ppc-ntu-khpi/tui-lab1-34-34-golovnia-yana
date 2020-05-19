@@ -16,7 +16,7 @@
 7. Переписала метод ShowCustomerDetails з використанням класів Bank, Customer, Account та ін. з наших попередніх лаб.
 8. Запустила проект, впевнилась, що все працює як очікувалось. 
 
-<img src="https://github.com/ppc-ntu-khpi/tui-lab1-34-34-golovnia-yana/blob/master/image.png" width="90%"/>
+<img src="https://github.com/ppc-ntu-khpi/tui-lab1-34-34-golovnia-yana/blob/master/image1.png" width="90%"/>
 ---
 
 
